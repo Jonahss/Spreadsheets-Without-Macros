@@ -11,4 +11,6 @@ OpenOffice.org Calc does not support iterative spreadsheets (which allow circula
 references) the same way that Microsoft Excel does, so I am forced to use one
 simple macro which increments one cell continuously.
 
+It's turing machines simulated using a reactive programming paradigm!
+
 ~Jonah
